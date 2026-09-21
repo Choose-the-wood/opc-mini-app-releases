@@ -2,11 +2,11 @@
   "app": "WiseMatch 灵工",
   "platform": "android",
   "packageName": "com.wisematch.opc",
-  "versionName": "0.1.1",
-  "versionCode": 11,
-  "assetName": "OPC-Mini-Android.apk",
-  "sizeBytes": 46328597,
-  "sha256": "7c42dea6471dfc601a255be3a871439556bff6863ea8b1f12c35716ed4d24ffa",
-  "builtAt": "2026-09-19T19:15:14+08:00",
-  "downloadUrl": "https://github.com/Choose-the-wood/opc-mini-app-releases/releases/latest/download/OPC-Mini-Android.apk"
+  "versionName": "1.0.3",
+  "versionCode": 14,
+  "assetName": "opc-mini-android-1.0.3-14-release.apk",
+  "sizeBytes": 28089127,
+  "sha256": "0a7292093c94aaef55a2e0703f84dcbd5ec29a662609fc00ec03a66b3b6a4c1d",
+  "builtAt": "2026-09-21T17:29:20+08:00",
+  "downloadUrl": "https://cdn.wisematch.com.cn/app/android/cloud-apk/opc-mini/1.0.3-14/0a7292093c94/opc-mini-android-1.0.3-14-release.apk"
 }
